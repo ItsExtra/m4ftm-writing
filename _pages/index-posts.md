@@ -9,6 +9,12 @@ permalink: >
 published: true
 post_date: 2019-10-17 22:28:30
 ---
+<!-- wp:heading -->
+
+## Posts
+
+<!-- /wp:heading -->
+
 <!-- wp:shortcode --> [wpghs target='view' type='link' text='Here is my post on GitHub'] 
 
 <!-- /wp:shortcode -->
