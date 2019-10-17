@@ -1,0 +1,72 @@
+---
+ID: 268
+post_title: '#Template: Vocab'
+author: Jack
+post_excerpt: ""
+layout: post
+permalink: >
+  https://eggplant.m4ftm.com/wp/in/template-vocab/
+published: true
+post_date: 2019-09-22 18:30:27
+---
+<!-- wp:kadence/accordion {"uniqueID":"_3f25d7-c7","startCollapsed":true,"linkPaneCollapse":false,"contentBorder":[0,0,0,0],"titleStyles":[{"size":[18,"",""],"sizeType":"px","lineHeight":[24,"",""],"lineType":"px","letterSpacing":"","family":"","google":"","style":"","weight":"","variant":"","subset":"","loadGoogle":true,"padding":[10,14,10,14],"marginTop":0,"color":"#555555","background":"#f2f2f2","border":["#555555","#555555","#555555","#555555"],"borderRadius":[0,0,0,0],"borderWidth":[0,0,0,0],"colorHover":"#444444","backgroundHover":"#eeeeee","borderHover":["#eeeeee","#eeeeee","#eeeeee","#eeeeee"],"colorActive":"#ffffff","backgroundActive":"#444444","borderActive":["#444444","#444444","#444444","#444444"],"textTransform":""}]} -->
+
+<div class="wp-block-kadence-accordion alignnone">
+  <div class="kt-accordion-wrap kt-accordion-wrap kt-accordion-id_3f25d7-c7 kt-accordion-has-2-panes kt-active-pane-0 kt-accordion-block kt-pane-header-alignment-left kt-accodion-icon-style-basic kt-accodion-icon-side-right" style="max-width: none;">
+    <div class="kt-accordion-inner-wrap" data-allow-multiple-open="true" data-start-open="none">
+      <!-- wp:kadence/pane {"uniqueID":"_16caa6-68"} -->
+      
+      <div class="wp-block-kadence-pane kt-accordion-pane kt-accordion-pane-1 kt-pane_16caa6-68">
+        <div class="kt-accordion-header-wrap">
+          <div class="kt-blocks-accordion-title-wrap">
+            <span class="kt-blocks-accordion-title">Wikipedia definition of ""</span>
+          </div>
+          
+          <div class="kt-blocks-accordion-icon-trigger">
+             
+          </div>
+        </div>
+        
+        <div class="kt-accordion-panel">
+          <div class="kt-accordion-panel-inner">
+            <!-- wp:quote {"className":"is-style-default"} -->
+            
+            <blockquote class="wp-block-quote is-style-default">
+              <p>
+                 
+              </p>
+              
+              <cite>Wikipedia: (this version)</cite>
+            </blockquote>
+            
+            <!-- /wp:quote -->
+            
+            <!-- wp:paragraph -->
+            
+            <p>
+               
+            </p>
+            
+            <!-- /wp:paragraph -->
+          </div>
+        </div>
+      </div>
+      
+      <!-- /wp:kadence/pane -->
+    </div>
+  </div>
+</div>
+
+<!-- /wp:kadence/accordion -->
+
+<!-- wp:heading -->
+
+## Other words that may be used interchangeably
+
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+
+*    
+
+<!-- /wp:list -->
